@@ -25,5 +25,7 @@
 ### docker run -d -p6001:6379 --name redis-older redis:4.0
  ***Command to get interactive interminal for running container*** ###
 ### docker exec -it docker-id /bin/bash
+***Command to create a docker network*** ###
+### docker network create mongo-network
 
 
